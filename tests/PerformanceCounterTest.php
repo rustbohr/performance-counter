@@ -1,10 +1,10 @@
 <?php
 
-namespace Rustbohr\PerformanceCounter\Tests;
+namespace RustBohr\PerformanceCounter\Tests;
 
 use PHPUnit\Framework\Attributes\Test;
 use PHPUnit\Framework\TestCase;
-use Rustbohr\PerformanceCounter\PerformanceCounter;
+use RustBohr\PerformanceCounter\PerformanceCounter;
 
 class PerformanceCounterTest extends TestCase
 {

@@ -1,6 +1,6 @@
 <?php
 
-namespace Rustbohr\PerformanceCounter;
+namespace RustBohr\PerformanceCounter;
 
 /**
  * Calculates the average iteration time for a given process
@@ -11,7 +11,7 @@ namespace Rustbohr\PerformanceCounter;
  * @see PerformanceCounterTest::average_process_time_can_be_obtained_for_multiple_keys for a demo
  * of how this works
  *
- * @author Rustbohr <rboricic89@gmail.com>
+ * @author rustbohr <rboricic89@gmail.com>
  */
 final class PerformanceCounter
 {
