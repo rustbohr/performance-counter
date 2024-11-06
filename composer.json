@@ -1,0 +1,15 @@
+{
+  "autoload": {
+    "psr-4": {
+      "Rustbohr\\PerformanceCounter\\": "src/"
+    }
+  },
+  "autoload-dev": {
+    "psr-4": {
+      "Rustbohr\\PerformanceCounter\\Tests\\": "tests/"
+    }
+  },
+  "require-dev": {
+    "phpunit/phpunit": "^11.3"
+  }
+}
